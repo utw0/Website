@@ -1,5 +1,5 @@
 # Luppux Team Personal Website.
-Bu Proje basit bir projede olmakla beraber HTML-CSS adına kendinize bir şey katmanız ve öğrenmeniz adına paylaşılmıştır. İndirip inceleyerek fikir sahibi olabilirsiniz.
+Bu Proje basit bir projede olmakla beraber HTML-CSS adına kendinize bir şey katmanız ve öğrenmeniz adına paylaşılmıştır. İndirip inceleyerek fikir sahibi olabilirsiniz. (lulushi#1000) Askim ile 31 keyf
 # Not:
 Projede MIT lisansı bulunmaktadır. Bu Websitesinin dosyalarının benden habersiz Paylaşılması/Satılması durumunda gerekli işlemler yapılacaktır.
 # Görseller
